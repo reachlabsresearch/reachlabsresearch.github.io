@@ -7,12 +7,12 @@ doks:
             text: Reach Labs
             image:
         nav:
-            - item_name: Item 1
+            - item_name: Research Goals
+              item_url: '/index.html'
+            - item_name: Timeline
               item_url: '#'
-            - item_name: Item 2
-              item_url: '#'
-            - item_name: Item 3
-              item_url: '#'
+            - item_name: About
+              item_url: '/about/index.html'
     footer:
         content:
             logo:
@@ -37,6 +37,8 @@ doks:
 sass:
     sass_dir: ./doks-theme/_sass
     style: :compressed
+
+
 
 # Jekyll settings
 layouts_dir: ./doks-theme/_layouts
