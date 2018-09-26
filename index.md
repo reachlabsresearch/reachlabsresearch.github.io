@@ -30,15 +30,15 @@ author:
 # Grid navigation
 grid_navigation:
     - title: Building the World's Largest Robotic Datafarm
-      excerpt: Advances are driven by data
+      excerpt: Designing hardware from scratch
       cta: Read more
-      url: '#'
+      url: 'datafarm/index.html'
     - title: Learning to Simulate Reality
-      excerpt: Section description
+      excerpt: New state-of-the-art for simulating the real world
       cta: Read more
-      url: '#'
+      url: 'simulation/index.html'
     - title: Imitating Human Demonstrations
-      excerpt: Designing 
+      excerpt: Hierarchical imitation learning algorithms
       cta: Read more
       url: '#'
 ---
