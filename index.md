@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: Reach Labs Research Goals
-description: This is a two-month research sprint to get robots working in the real world.
+description: A two-month research sprint to get robots working in the real world.
 buttons:
     - content: Button
       url: '#'
