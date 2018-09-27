@@ -4,8 +4,8 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Our Research Goals
-description: A two-month research sprint to get robots working in the real world.
+title: Research Goals
+description: A two-month research project to get robots working in the real world.
 buttons:
 
     - icon: twitter
@@ -28,17 +28,17 @@ author:
 # Grid navigation
 grid_navigation:
     - title: Learn to Simulate Reality
-      excerpt: New state-of-the-art for simulating the real world
+      excerpt: Building the new state-of-the-art for simulating the real world
       cta: Read more
       url: 'simulation/index.html'
 
     - title: Build the World's Largest Robotic Datafarm
-      excerpt: Designing hardware from scratch
+      excerpt: Designing scalable robotic hardware.
       cta: Read more
       url: 'datafarm/index.html'
 
-    - title: Dextrous Robot Hands
-      excerpt: Dextrous Hands
+    - title: Design Dextrous Robotic Hands
+      excerpt: Buiding the world's most advanced dextrous robotic hands
       cta: Read more
       url: '#'
 ---

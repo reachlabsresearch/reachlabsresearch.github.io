@@ -6,14 +6,15 @@ comments: false
 
 # Hero section
 title: Building the World's Largest Robotic Datafarm
-description: Page description
+description: Designing scalable robotic hardware.
 
 # Author box
 author:
     title: About Author
-    title_url: '#'
+    title_url: 'https://mila.quebec/personne/james-ough/'
     external_url: true
-    description: Author description
+    description: Written by James Ough.
+    hello: test
 
 # Micro navigation
 micro_nav: true
@@ -36,6 +37,10 @@ Despite this, real-world robotics research has been limited to comparatively sma
 
 The first challenge is to build up a farm of robots that can collect more data than ever before. Commercial robotic arms cost about $30K each, so we will have to figure out a way to lower the cost of dextrous robots by 100X.
 
+## Success Criterion
+We need a robot with mm repeatability, zero backlash, a 1kg payload, force sensing/control, and a workspace of about half a meter cubed (with minimal kinematic dead zones). The entire robot (including camera and electronics) should cost less than 300 USD and be trivial to assemble and modify.
+
+
 ## Subgoals
 
 1. [Design robot structure and electronics.](#subgoal1) (DONE 18-9-2018)
@@ -50,7 +55,7 @@ The first challenge is to build up a farm of robots that can collect more data t
 10. Get training with a toy test task.
 
 
-## 1. Design robot structure and electronics.
+### 1. Design robot structure and electronics.
 {: #subgoal1 }
 We need a robot with mm repeatability, zero backlash, a 1kg payload, force sensing/control, and a workspace of about half a meter cubed (with minimal kinematic dead zones). The entire robot (including camera and electronics) should cost less than 300 USD and be trivial to assemble and modify.
 
@@ -61,3 +66,5 @@ The reason that people don't typically use cable robots is that they're very har
 There aren't any cable robot designs already online so we'll have to make our own.
 
 Here's the first design:
+
+## Final Product

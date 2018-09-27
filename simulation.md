@@ -6,14 +6,14 @@ comments: false
 
 # Hero section
 title: Learning to Simulate Reality
-description: Page description
+description: Building the new state-of-the-art for simulating the real world
 
 # Author box
 author:
     title: About Author
-    title_url: '#'
+    title_url: 'https://mila.quebec/personne/james-ough/'
     external_url: true
-    description: Author description
+    description: Written by James Ough.
     hello: test
 
 # Micro navigation

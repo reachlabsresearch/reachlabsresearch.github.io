@@ -9,8 +9,8 @@ doks:
         nav:
             - item_name: Research Goals
               item_url: '/index.html'
-            - item_name: Timeline
-              item_url: '#'
+            - item_name: Metrics
+              item_url: '/metrics/index.html'
             - item_name: About
               item_url: '/about/index.html'
     footer:
@@ -43,3 +43,6 @@ layouts_dir: ./doks-theme/_layouts
 includes_dir: ./doks-theme/_includes
 exclude: [ 'README.md', 'CHANGELOG.md' ]
 permalink: /:title/
+
+head_scripts:
+  - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js

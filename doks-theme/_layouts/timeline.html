@@ -19,7 +19,9 @@
 								{% endif %}
 
 									<div class="content">{{ page.content }}</div>
-<iframe width="800" height="400" frameborder="0" scrolling="no" src="//plot.ly/~jough/2.embed?showlink=false"></iframe>
+
+
+
 								{% if page.page_nav.prev.content or page.page_nav.next.content %}
 									{% if page.page_nav.prev.content and page.page_nav.prev.url %}
 										<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ page.page_nav.prev.url }}" class="btn btn--dark btn--rounded btn--w-icon btn--w-icon-left">
