@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: Research Goals
-description: A two-month research project to get robots working in the real world.
+description: An ambitious two-month research program to get robots working in the real world.
 buttons:
 
     - icon: twitter
