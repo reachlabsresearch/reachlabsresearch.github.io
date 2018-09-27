@@ -4,15 +4,13 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Reach Labs Research Goals
+title: Our Research Goals
 description: A two-month research sprint to get robots working in the real world.
 buttons:
-    - content: Button
-      url: '#'
-      external_url: false
+
     - icon: twitter
       content: Twitter
-      url: '#'
+      url: 'https://twitter.com/james_ough'
       external_url: true
     - icon: github
       content: Github
@@ -29,16 +27,18 @@ author:
 
 # Grid navigation
 grid_navigation:
-    - title: Building the World's Largest Robotic Datafarm
-      excerpt: Designing hardware from scratch
-      cta: Read more
-      url: 'datafarm/index.html'
-    - title: Learning to Simulate Reality
+    - title: Learn to Simulate Reality
       excerpt: New state-of-the-art for simulating the real world
       cta: Read more
       url: 'simulation/index.html'
-    - title: Imitating Human Demonstrations
-      excerpt: Hierarchical imitation learning algorithms
+
+    - title: Build the World's Largest Robotic Datafarm
+      excerpt: Designing hardware from scratch
+      cta: Read more
+      url: 'datafarm/index.html'
+
+    - title: Dextrous Robot Hands
+      excerpt: Dextrous Hands
       cta: Read more
       url: '#'
 ---

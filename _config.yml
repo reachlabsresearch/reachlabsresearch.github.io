@@ -20,12 +20,10 @@ doks:
                 image:
             copyright: Copyright &copy; 2017. - Reach Labs <br>All rights reserved.
         social_list:
-            - network_name: facebook
+            - network_name: github
               profile_url: '#'
             - network_name: twitter
-              profile_url: '#'
-            - network_name: instagram
-              profile_url: '#'
+              profile_url: 'https://twitter.com/james_ough'
             - network_name: youtube
               profile_url: '#'
     google_analytics:
